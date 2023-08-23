@@ -16,6 +16,16 @@
 >- Geração de uma captura de tela "barrada" para exemplificar a proteção de dados(Inspirado na Netflix).
 >- Criação de um arquivo de texto com informações da tabela do MySQL.
 
+## 🔥 Programa em execução
+> <img src="./imagens/menu1.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+> <img src="./imagens/menu2.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+> <img src="./imagens/menu3.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+> <img src="./imagens/menu4.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+> <img src="./imagens/menu5.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+> <img src="./imagens/menu6.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+> <img src="./imagens/menu7.jpg" alt="Imagem menu" style="width:200px;height:100px;">
+
+
 ## ⚠️Como Usar
 
 >1. Configure a conexão com o banco de dados MySQL no pacote `db`.
